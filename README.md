@@ -1,0 +1,1 @@
+# Nicolas-trading-bot
