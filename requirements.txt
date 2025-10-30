@@ -1,2 +1,2 @@
-alpaca-trade-api
+alpaca-py==0.12.0
 requests
